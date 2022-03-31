@@ -2,7 +2,12 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*All Code Done BY Subhadip Samanta
+I have done code 30 March,	
+code upolted in git 1st in File
+ https://github.com/subhadips24/FirstPhaseProject
+ 
+*/
 public class FirstProject {
 	
 	static  String pathMyPc="S:\\JAVA\\Prctical\\FirstPhaseProject\\src\\OutPut\\";
